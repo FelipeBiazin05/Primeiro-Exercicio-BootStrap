@@ -1,0 +1,18 @@
+.alinhamento-centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 32px;
+}
+
+form {
+padding: 40px;
+}
+
+form button {
+    margin-top: 8px;
+}
